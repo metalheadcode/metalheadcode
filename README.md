@@ -1,8 +1,10 @@
+[![Ahmad Hazim - React, Web App Developer, UI Designer & 3D Modeler | Freelancer](hhttps://res.cloudinary.com/metalheadcoder/image/upload/v1628948818/Personal%20%28Github%29/IMG_0997_p6usqs.jpg)]
+
 # Hi there
 
 ### A passionate and researcher design + front-end developer from Malaysia
 
-<p> <img src="https://komarev.com/ghpvc/?username=oguzsh&label=Profile%20views&color=0e75b6&style=flat" alt="oguzsh" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=metalheadcode&label=Profile%20views&color=0e75b6&style=flat" alt="metalheadcode" /> </p>
 
 - 🔭 I’m currently working at [neuon.ai](https://neuon.ai/)
 

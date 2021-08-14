@@ -18,7 +18,7 @@
 
 ![Ahmad Hazim's Github Stats](https://github-readme-stats.vercel.app/api?username=metalheadcode&theme=dark)
 
-### Frontend Stack
+### 💻 Frontend Stack
 
 <p>
    <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></img>
@@ -32,11 +32,10 @@
    <img alt="Jest" src="https://img.shields.io/badge/Jest-916F79.svg?logo=jest&logoColor=white"></img> 
 </p>
 
-### Backend Stack
+### ⚙️ Backend Stack
 
 <p>
    <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%2320232a.svg?logo=firebase&logoColor=%FFA611"></img>
-   <img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node-dot-js&logoColor=white"></img>
    <img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></img>
    <img alt="Firebase" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node-dot-js&logoColor=white"></img>
    <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL%20-F71490.svg?logo=graphql&logoColor=white"></img>
@@ -46,24 +45,17 @@
    <img alt="TravisCI" src="https://img.shields.io/badge/TravisCI-f5f1ba.svg?logo=travis&logoColor=white"></img>
 </p>
 
-### Familarity
-
-<p>
-   <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></img>
-</p>
-
-### Framework & Libraries
+### 📚 Framework & Libraries
 
 <p>
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></img>
-    <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?logo=flutter&logoColor=white"></img>
     <img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></img>
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></img>
     <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></img>
-    <img alt="React Native" src="https://img.shields.io/badge/React%20Native%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></img>
+    <!-- <img alt="React Native" src="https://img.shields.io/badge/React%20Native%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></img> -->
 </p>
 
-### Databases and cloud hosting
+### ☁️ Databases and cloud hosting
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
@@ -71,7 +63,7 @@
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
 </p>
 
-### Software and tools
+### 🧰 Software and tools
 
 <p>
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-%2320232a.svg?logo=figma&logoColor=white"></a>

@@ -1,8 +1,8 @@
 <img width="100%" src="https://res.cloudinary.com/metalheadcoder/image/upload/v1628948818/Personal%20%28Github%29/IMG_0997_p6usqs.jpg"></img>
 
-# Hi there
+# 👋 Hi there
 
-### A passionate and researcher design + front-end developer from Malaysia
+### ⚛️ React Dev | Web Developer | 3D Modeler | Designer
 
 <p> <img src="https://komarev.com/ghpvc/?username=metalheadcode&label=Profile%20views&color=0e75b6&style=flat" alt="metalheadcode" /> </p>
 

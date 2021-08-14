@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working at [neuon.ai](https://neuon.ai/)
 
-- 📝 I regularly write articles on ( Turkish ) [https://oguzhanince.medium.com/](https://oguzhanince.medium.com/)
-
 - 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **metalheadcoder@gmail.com**

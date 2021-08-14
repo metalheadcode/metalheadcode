@@ -35,6 +35,7 @@
 ### Backend Stack
 
 <p>
+   <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%2320232a.svg?logo=firebase&logoColor=%FFA611"></img>
    <img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node-dot-js&logoColor=white"></img>
    <img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></img>
    <img alt="Firebase" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node-dot-js&logoColor=white"></img>

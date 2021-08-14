@@ -1,4 +1,4 @@
-[![Ahmad Hazim - React, Web App Developer, UI Designer & 3D Modeler | Freelancer](hhttps://res.cloudinary.com/metalheadcoder/image/upload/v1628948818/Personal%20%28Github%29/IMG_0997_p6usqs.jpg)]
+(https://res.cloudinary.com/metalheadcoder/image/upload/v1628948818/Personal%20%28Github%29/IMG_0997_p6usqs.jpg)
 
 # Hi there
 

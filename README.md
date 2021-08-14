@@ -2,7 +2,7 @@
 
 # 👋 Hi there
 
-### ⚛️ React Dev | Web Developer | 3D Modeler | Designer
+### ⚛️ React Dev | 👨🏻‍💻 Web Developer | 👨🏻‍💻 3D Modeler | 👨🏻‍💻 Designer
 
 <p> <img src="https://komarev.com/ghpvc/?username=metalheadcode&label=Profile%20views&color=0e75b6&style=flat" alt="metalheadcode" /> </p>
 

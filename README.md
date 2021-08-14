@@ -1,4 +1,4 @@
-<img width="100%" src="https://res.cloudinary.com/metalheadcoder/image/upload/v1628948818/Personal%20%28Github%29/IMG_0997_p6usqs.jpg"></img>
+<!-- <img width="100%" src="https://res.cloudinary.com/metalheadcoder/image/upload/v1628948818/Personal%20%28Github%29/IMG_0997_p6usqs.jpg"></img> -->
 
 # 👋 Hi there
 

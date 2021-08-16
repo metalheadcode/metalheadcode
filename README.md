@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **metalheadcoder@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://www.linkedin.com/in/ahmad-hazim-ahmad-fuad-40702617/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/ahmad-hazim-ahmad-fuad-40702617/)
 
 ## ⚡ Github Stats
 

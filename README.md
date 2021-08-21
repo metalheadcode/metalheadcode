@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working at [neuon.ai](https://neuon.ai/)
 
-- 💬 Ask me about **Frontend Development**
+<!-- - 💬 Ask me about **Frontend Development**  -->
 
 - 📫 How to reach me **metalheadcoder@gmail.com**
 

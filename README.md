@@ -6,7 +6,7 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=metalheadcode&label=Profile%20views&color=0e75b6&style=flat" alt="metalheadcode" /> </p>
 
-- 🔭 Currently working at [neuon.ai](https://neuon.ai/)
+- 🔭 Currently working at [harum.io](https://www.harum.io)
 
 - 💬 Ask me about **Frontend Development** 
 

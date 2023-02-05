@@ -2,7 +2,7 @@
 
 # Hi There 👋 
 
-## ⚠️⚠️⚠️ Not active. Please visit my [Gitlab] (https://gitlab.com/metalheadcode) ⚠️⚠️⚠️
+## ⚠️ Not active here. Please visit my <a href='https://gitlab.com/metalheadcode'/> ⚠️
 
 ### ⚛️ React Dev | 👨🏻‍💻 Web Developer 
 

@@ -71,9 +71,6 @@ Full Stack Developer specializing in modern web technologies with expertise in *
 ---
 
 ## 📊 GitHub Stats
-
-![Ahmad Hazim's GitHub stats](https://github-readme-stats.vercel.app/api?username=metalheadcode&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metalheadcode&layout=compact&theme=radical)
 
 ---

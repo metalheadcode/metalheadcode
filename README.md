@@ -1,86 +1,98 @@
-# AHMAD HAZIM BIN AHMAD FUAD
+# Hi there, I'm Ahmad Hazim! 👋
 
-**Phone:** +016 853 2998  
-**Email:** hello@ahmadhazim.com  
-**Website:** https://ahmadhazim.com  
-**LinkedIn:** https://www.linkedin.com/in/ahmad-hazim-ahmad-fuad  
-**Github:** https://github.com/metalheadcode  
-**Address:** Q-301, Block Q1, Apartment Saujana, Jalan PJU10/1C, Damansara Damai, Petaling Jaya, Selangor
+## 🚀 Full Stack Developer | React & Next.js Specialist
+
+Full Stack Developer specializing in modern web technologies with expertise in **React**, **Next.js**, and cloud-native solutions. Proven proficiency in developing scalable applications using **JavaScript** and **TypeScript**, with extensive experience in backend-as-a-service platforms like **Supabase** and edge computing with **Cloudflare**. Expert in state management using **Redux Toolkit** and **Zustand**, with strong database skills in **PostgreSQL**. Enthusiastic about adopting cutting-edge technologies and staying updated with industry trends.
 
 ---
 
-## About Me
-
-Full Stack Developer specializing in modern web technologies with expertise in **React**, *Next.js*, and cloud-native solutions. Proven proficiency in developing scalable applications using **JavaScript** and **TypeScript**, with extensive experience in backend-as-a-service platforms like **Supabase** and edge computing with **Cloudflare**. Skilled in creating responsive, visually appealing interfaces using **Tailwind CSS** and implementing smooth animations with **GSAP** and **Motion (Framer Motion)**. Expert in state management using **Redux Toolkit** and **Zustand**, with strong database skills in **PostgreSQL**. Demonstrates effective project management skills, prioritizing tasks based on project goals and deadlines. Dedicated to clear communication through progress reports and collaborative problem-solving. Enthusiastic about adopting cutting-edge technologies and staying updated with industry trends.
-
----
-
-## Technical Expertise
+## 🛠️ Tech Stack & Skills
 
 ### Frontend Development
-Building responsive user interfaces with React.js and Next.js, ensuring high performance and optimal user experience across all devices.
-
-### Backend & Database
-Developing robust backend solutions using Supabase with PostgreSQL, implementing real-time features, authentication, and efficient database schema design.
-
-### Cloud & Edge Computing
-Deploying and optimizing applications using Cloudflare for edge computing, CDN, and enhanced performance.
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### State Management
-Implementing efficient state management solutions using Redux Toolkit for complex applications and Zustand for lightweight state management needs.
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-FF6B6B?style=for-the-badge&logo=react&logoColor=white)
 
-### Styling & Animation
-Creating visually stunning interfaces with Tailwind CSS and implementing engaging animations using GSAP and Motion (Framer Motion).
+### Animation & Motion
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-### Database Management
-Designing and optimizing PostgreSQL databases, writing efficient queries, and ensuring data consistency and integrity.
+### Backend & Database
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-### API Development
-Building and integrating RESTful APIs and real-time subscriptions, handling complex data flows and third-party integrations.
+### Cloud & Deployment
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-### User Authentication & Security
-Implementing secure authentication and authorization mechanisms using modern authentication strategies and JWT tokens.
-
-### Performance Optimization
-Optimizing applications for speed, SEO, and user experience using Next.js features like SSR, SSG, and ISR.
-
-### Deployment & DevOps
-Deploying applications on modern platforms including Vercel, Cloudflare Pages, and other cloud services with CI/CD pipelines.
-
-### Collaboration & Project Management
-Working effectively in agile environments with cross-functional teams, using modern collaboration tools and maintaining clean, documented codebases.
-
-### Troubleshooting & Debugging
-Identifying and resolving complex technical issues across the full stack, from frontend performance to database optimization.
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## Employment Record
+## 💼 Professional Experience
 
-### Devwiz SDN BHD | Mar 2023 - Present
-**Position:** Full Stack Developer
+### 🔹 Full Stack Developer @ Devwiz SDN BHD
+**Mar 2023 - Present**
+- Building scalable web applications with Next.js and Supabase
+- Implementing responsive designs with Tailwind CSS
+- Managing complex state with Redux Toolkit and Zustand
 
-### Throughput Solutions SDN BHD | Nov 2021 - Mar 2023 · 1 yr 5 mos
-**Position:** Frontend Developer
+### 🔹 Frontend Developer @ Throughput Solutions SDN BHD
+**Nov 2021 - Mar 2023 · 1 yr 5 mos**
+- Developed high-performance React applications
+- Collaborated with cross-functional teams in agile environment
 
-### NEUON AI SDN BHD | Feb 2019 - Nov 2021 · 2 yrs 10 mos
-**Position:** Creative Lead
-
-### Socoe SDN BHD | Oct 2018 - Dec 2018 · 3 mos
-**Position:** UI/UX Designer
-
-### Freelancer | Jul 2016 - Oct 2018 · 2 yrs 4 mos
-**Position:** WordPress Developer & Designer
-
-### Les' Copaque Production SDN BHD | Jan 2015 - Jul 2016 · 1 yr 7 mos
-**Position:** 3D Background Artist
+### 🔹 Creative Lead @ NEUON AI SDN BHD
+**Feb 2019 - Nov 2021 · 2 yrs 10 mos**
+- Led creative and technical projects
+- Bridged design and development teams
 
 ---
 
-## Education
+## 🎓 Education
 
-### Limkowing University of Creative Technology (LUCT) | April 2012 - December 2014
-**Qualification:** Diploma in Creative Multimedia
+**Diploma in Creative Multimedia**  
+*Limkowing University of Creative Technology (LUCT)* | 2012 - 2014
 
-### University Malaysia Perlis (UNIMAP) | June 2008 - June 2011
-**Qualification:** Diploma in Metallurgy Engineering
+**Diploma in Metallurgy Engineering**  
+*University Malaysia Perlis (UNIMAP)* | 2008 - 2011
+
+---
+
+## 📊 GitHub Stats
+
+![Ahmad Hazim's GitHub stats](https://github-readme-stats.vercel.app/api?username=metalheadcode&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metalheadcode&layout=compact&theme=radical)
+
+---
+
+## 🌟 What I'm Working On
+
+- 🔭 Building modern web applications with **Next.js** and **Supabase**
+- 🌱 Exploring **edge computing** with **Cloudflare Workers**
+- 👯 Looking to collaborate on **open source React projects**
+- 💬 Ask me about **React**, **Next.js**, **TypeScript**, or **PostgreSQL**
+
+---
+
+## 📫 Let's Connect!
+
+[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://ahmadhazim.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-hazim-ahmad-fuad)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@ahmadhazim.com)
+
+---
+
+⭐️ From [Ahmad Hazim](https://github.com/metalheadcode)

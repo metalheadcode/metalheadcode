@@ -84,6 +84,24 @@ Full Stack Developer specializing in modern web technologies with expertise in *
 
 ---
 
+Cert
+<a href="https://www.testdome.com/certificates/ce2aa1b7dfbb461caa9cbee65fc63e5e" class="testdome-certificate-stamp gold">
+            <span class="testdome-certificate-name">Ahmad Hazim bin A...</span>
+            <span class="testdome-certificate-test-name">JavaScript</span>
+            <span class="testdome-certificate-card-logo">TestDome<br>Certificate</span>
+        </a>
+        <script>
+            var stylesheet = "https://www.testdome.com/content/certificates/embed.css";
+            link = document.createElement("link");
+            link.href = stylesheet;
+            link.type = "text/css";
+            link.rel = "stylesheet";
+            link.media = "screen,print";
+            document.getElementsByTagName("head")[0].appendChild(link);
+        </script>
+
+---
+
 ## 📫 Let's Connect!
 
 [![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://ahmadhazim.com)
